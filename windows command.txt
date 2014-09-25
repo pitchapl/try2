@@ -1,0 +1,5 @@
+cd /"..." go to directory "..."
+mkdir "..." create folder "..."
+cd .. go to top directory
+nul > za.txt create empty text file named za
+
